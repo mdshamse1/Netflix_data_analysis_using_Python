@@ -59,7 +59,7 @@ Run netflix_analysis.ipynb in Jupyter Notebook
 
 Ensure netflix_titles.csv is in the same directory
 
-git clone https://github.com/your-username/netflix-data-analysis.git
+git clone https://github.com/mdshamse1/Netflix_data_analysis_using_Python
 cd netflix-data-analysis
 jupyter notebook netflix_analysis.ipynb
 
